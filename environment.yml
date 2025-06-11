@@ -1,4 +1,4 @@
-name: ds2500
+name: conda-env
 channels:
   - conda-forge
   - defaults
