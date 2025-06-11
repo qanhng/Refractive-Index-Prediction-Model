@@ -22,7 +22,6 @@ dependencies:
   - python-lsp-server=1.7.2
   - python-slugify=8.0.1
   - python-tzdata=2023.3
-  - python.app=1.4
   - python_abi=3.10
   - pip:
     - contourpy==1.2.0
